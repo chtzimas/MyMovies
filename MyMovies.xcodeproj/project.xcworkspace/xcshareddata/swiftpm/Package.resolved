@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "factory",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/hmlongco/Factory.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "a2091e4fe2a2e8cca58cac65377ceac9d61edeff"
+      }
+    },
+    {
+      "identity" : "kingfisher",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/onevcat/Kingfisher.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "855255794aa1e865b502a06a11c4c136fa81b070"
+      }
+    }
+  ],
+  "version" : 2
+}
